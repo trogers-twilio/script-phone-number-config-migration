@@ -1,0 +1,8 @@
+phoneNumber,voiceUrl,isTwimlBin,dialTarget,twimlException,twimlXml,twimlJson
++19704328764,https://handler.twilio.com/twiml/EHcdf1e821844823577ea49f27c62ecb3a,true,"{""Conference"":""MyTestConference""}",true,"<?xml version=""1.0"" encoding=""UTF-8""?><Response>  <Dial>    <Conference>MyTestConference</Conference>  </Dial></Response>","{""Response"":{""Dial"":{""Conference"":""MyTestConference""}}}"
++13172453433,https://number-migration-7863-dev.twil.io/dial-talkdesk,false,,,,
++14152003099,https://092eaf55.ngrok.io/dequeue-support-internet,false,,,,
++18132965101,https://d71663390c9b.ngrok.io/Queue/Entry,false,,,,
++12062023599,https://number-migration-7863-dev.twil.io/dial-talkdesk,false,,,,
++18557113535,https://number-migration-7863-dev.twil.io/dial-talkdesk,false,,,,
++13472748830,https://demo.twilio.com/welcome/voice/,false,,,,
